@@ -8,15 +8,17 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Get the independent variable X and dependent variable Y.
-2.Calculate the mean of the X -values and the mean of the Y -values.
-3.Find the slope m of the line of best fit using the formula.
+ 1.Get the independent variable X and dependent variable Y.<p>
+ 2.Calculate the mean of the X -values and the mean of the Y -values.<p>
+ 3.Find the slope m of the line of best fit using the formula.
+
 ![image](https://github.com/user-attachments/assets/23c20f80-7b52-4f7a-a48c-a5732334feb0)
 
 4.Compute the y -intercept of the line by using the formula:
+
 ![image](https://github.com/user-attachments/assets/d0e6c793-94bf-4f57-970c-a98b7ff85269)
 
-5.Use the slope m and the y -intercept to form the equation of the line. 
+5.Use the slope m and the y -intercept to form the equation of the line.<p> 
 6. Obtain the straight line equation Y=mX+b and plot the scatterplot. 
  
 
