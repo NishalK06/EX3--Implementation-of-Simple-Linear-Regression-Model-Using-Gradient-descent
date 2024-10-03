@@ -16,7 +16,8 @@ To write a program to predict the profit of a city using the linear regression m
 4.Compute the y -intercept of the line by using the formula:
 ![image](https://github.com/user-attachments/assets/d0e6c793-94bf-4f57-970c-a98b7ff85269)
 
-5.Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot the scatterplot. 
+5.Use the slope m and the y -intercept to form the equation of the line. 
+6. Obtain the straight line equation Y=mX+b and plot the scatterplot. 
  
 
 ## Program:
